@@ -1,3 +1,7 @@
 Mi primer archivo de texto
 
+<<<<<<< .merge_file_dXURvJ
 Otro cambio
+=======
+Esto ya no es lo que era
+>>>>>>> .merge_file_tNzyQU
